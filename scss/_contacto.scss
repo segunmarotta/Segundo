@@ -1,0 +1,32 @@
+.section_contacto{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    
+}
+
+
+.input_box{
+    width: 100%;
+    height: 40px;
+    color: black;
+
+}
+
+.input_box:focus{
+    background-color: lightblue;
+
+}
+
+.input_btn{
+    width: 200px;
+    
+}
+
+textarea{
+    width: 80%;
+    
+}
+
+.address{
+    border: 3px solid black;
+
+}

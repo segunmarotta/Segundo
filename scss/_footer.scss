@@ -1,0 +1,67 @@
+footer{
+    border-top: 2px solid rgb(0, 0, 0);
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    color: #f2f2f2;
+
+}
+
+.footer-title{
+    border-left: 2px solid whitesmoke;
+    margin-top: 40px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.footer-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul.none{
+    list-style-type: none;
+}
+
+
+a i {
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+.fab:hover{
+    color: black;
+    
+}
+
+
+
+footer li{
+    margin-top: 5px;
+    
+}
+
+footer li a{
+    margin: 6px;
+    color: white;
+    
+}
+
+footer li a:hover{
+    color: white;
+}
+
+
+.contactanos{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+i.margin{
+    margin-left: -30px;
+    margin-top: 12px;
+}
+
+
+.footer-bottom{
+    border-top: 1px solid grey;
+}
