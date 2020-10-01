@@ -2,8 +2,17 @@
     height: 570px;
     background: url('img/clients.jpg') no-repeat fixed;
     background-size: 100% 100%;
-
 }
+
+@media only screen and (max-device-width: 400px){
+    .section_hist{
+    height: 570px;
+    background: url('img/clients.jpg') no-repeat fixed;
+    background-size: 100% 100%;
+
+    }
+}
+
 
 .section_hist-box{
     height: 450px;
